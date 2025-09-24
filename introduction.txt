@@ -1,2 +1,5 @@
 Hi, this will be a file to introduce everyone in the team.
 
+Hi, my name is CodeLine. 
+Code is a 4 letter word, and Line is a 4 letter word too.
+This is the name of my 1st hackathon team in 2023.
