@@ -1,2 +1,4 @@
 Hi, this will be a file to introduce everyone in the team.
 
+Hi, my name is ELZ.
+ELZ stands for Edmund Lin Zhenming.
